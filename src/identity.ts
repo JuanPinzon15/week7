@@ -1,0 +1,3 @@
+interface Identity{
+    id: number
+  }
